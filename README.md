@@ -1,6 +1,6 @@
 # flutter_notification
 
-A new Flutter project.
+A new Flutter project. in which we show the local notification 
 
 ## Getting Started
 
